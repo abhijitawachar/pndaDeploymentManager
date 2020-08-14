@@ -1,0 +1,10 @@
+target/
+*.pyc
+*.pem
+.classpath
+.project
+.settings/
+.coverage
+pnda-build/
+.virtualenv
+venv
